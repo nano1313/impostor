@@ -1,0 +1,647 @@
+[
+    {
+        "word": "Un astronauta",
+        "clues": [
+            "espacio",
+            "traje",
+            "gravedad"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg"
+    },
+    {
+        "word": "Un vampiro",
+        "clues": [
+            "noche",
+            "colmillos",
+            "oscuridad"
+        ],
+        "imagen": "https://img.freepik.com/vector-premium/cara-vampiro-dibujos-animados-halloween_601658-2816.jpg?semt=ais_hybrid&w=740&q=80"
+    },
+    {
+        "word": "Un ninja",
+        "clues": [
+            "sigilo",
+            "sombra",
+            "artes marciales"
+        ],
+        "imagen": "https://png.pngtree.com/png-clipart/20240718/original/pngtree-a-skilled-ninja-in-action-pose-png-image_15583270.png"
+    },
+    {
+        "word": "Un pirata",
+        "clues": [
+            "mar",
+            "barco",
+            "tesoro"
+        ],
+        "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3sRvwluTSlLW1RtHHU8_TvRa6e2GUPBjAIw&s"
+    },
+    {
+        "word": "Un robot",
+        "clues": [
+            "metal",
+            "tecnología",
+            "futuro"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/The_Wild_Robot_poster.jpg/250px-The_Wild_Robot_poster.jpg"
+    },
+    {
+        "word": "Harry Potter",
+        "clues": [
+            "Varita",
+            "Hogwarts",
+            "Magia"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/d7/Harry_Potter_character_poster.jpg"
+    },
+    {
+        "word": "Hermione Granger",
+        "clues": [
+            "Inteligencia",
+            "Biblioteca",
+            "Pociones"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/d3/Hermione_Granger_poster.jpg"
+    },
+    {
+        "word": "Ron Weasley",
+        "clues": [
+            "Pelirrojo",
+            "Escoba",
+            "Amigos"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/5/5e/Ron_Weasley_poster.jpg"
+    },
+    {
+        "word": "Darth Vader",
+        "clues": [
+            "Luz roja",
+            "Oscuridad",
+            "Fuerza"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Darth_Vader_-_2007_Disney_Weekends.jpg"
+    },
+    {
+        "word": "Luke Skywalker",
+        "clues": [
+            "Espada láser",
+            "Jedi",
+            "Estrella de la Muerte"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/67/Luke_Skywalker_-_Welcome_Banner_%28Cropped%29.jpg"
+    },
+    {
+        "word": "Yoda",
+        "clues": [
+            "Sabiduría",
+            "Grande maestro",
+            "Tamaño pequeño"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/9/9b/Yoda_Empire_Strikes_Back.png"
+    },
+    {
+        "word": "Spider-Man",
+        "clues": [
+            "Telarañas",
+            "Peter Parker",
+            "Marvel"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/2/21/Web_of_Spider-Man_Vol_1_129-1.png"
+    },
+    {
+        "word": "Iron Man",
+        "clues": [
+            "Tecnología",
+            "Billionario",
+            "Armored"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/4/47/Iron_Man_%28circa_2018%29.png"
+    },
+    {
+        "word": "Black Widow",
+        "clues": [
+            "Venganza",
+            "Sombra"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/e/e9/Black_Widow_%282021_film%29_poster.jpg"
+    },
+    {
+        "word": "Captain America",
+        "clues": [
+            "Escudo",
+            "Vigilante",
+            "Patriota"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/b/bf/CaptainAmericaHughes.jpg"
+    },
+    {
+        "word": "The Hulk",
+        "clues": [
+            "Furia",
+            "Verde",
+            "Gamma"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/a/aa/Hulk_%28circa_2019%29.png"
+    },
+    {
+        "word": "Deadpool",
+        "clues": [
+            "Humor negro",
+            "Regeneración",
+            "Mercenario"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/c/ca/Deadpool.png"
+    },
+    {
+        "word": "Batman",
+        "clues": [
+            "Murciélago",
+            "Gotham",
+            "Justicia"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg"
+    },
+    {
+        "word": "Superman",
+        "clues": [
+            "Vuelo",
+            "Kryptón",
+            "Fuerza"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/3/35/Supermanflying.png"
+    },
+    {
+        "word": "Wonder Woman",
+        "clues": [
+            "Lazo",
+            "Amazonas",
+            "Diosa"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/b/b0/Wonder_Woman_%282017_film%29_poster.jpg"
+    },
+    {
+        "word": "Aquaman",
+        "clues": [
+            "Mar",
+            "Atlántida",
+            "Tiburón"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/9/9d/Aquaman_Rebirth_1.png"
+    },
+    {
+        "word": "Joker",
+        "clues": [
+            "Caos",
+            "Payaso",
+            "Risa"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/e/e1/Joker_%282019_film%29_poster.jpg"
+    },
+    {
+        "word": "Harley Quinn",
+        "clues": [
+            "Locura",
+            "Gotham",
+            "Amor de Joker"
+        ],
+        "imagen": "https://i.pinimg.com/474x/ba/a5/82/baa582a5e3d8cf519ee7ca1523b568db.jpg"
+    },
+    {
+        "word": "Elton John",
+        "clues": [
+            "Piano",
+            "Sunglasses"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/61/EltonDocBFILFF101024_%284_of_17%29_%28cropped%29.jpg"
+    },
+    {
+        "word": "Kanye West",
+        "clues": [
+            "Controversia",
+            "Fashion",
+            "Rap"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kanye_West_at_the_2009_Tribeca_Film_Festival_%28crop_2%29.jpg"
+    },
+    {
+        "word": "Drake",
+        "clues": [
+            "Hip-hop",
+            "Toronto"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/28/Drake_July_2016.jpg"
+    },
+    {
+        "word": "Rihanna",
+        "clues": [
+            "Caribbean",
+            "Fashionista"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Rihanna_Fenty_2018.png"
+    },
+    {
+        "word": "Carlos Gardel",
+        "clues": [
+            "Tango",
+            "Uruguay",
+            "2x4"
+        ],
+        "imagen": "http://www.gloriatango.com/carlos-gardel/"
+    },
+    {
+        "word": "Celia Cruz",
+        "clues": [
+            "Reina de la salsa",
+            "Cuba",
+            "Azúcar"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Celia_Cruz%2C_1957_%28cropped%29.jpg"
+    },
+    {
+        "word": "Sandro",
+        "clues": [
+            "Balada",
+            "Romántico",
+            "Argentina"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sandro_-_Antena_1970.png"
+    },
+    {
+        "word": "Luis Miguel",
+        "clues": [
+            "Bolero",
+            "Romántico"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/57/Luis_Miguel.jpg"
+    },
+    {
+        "word": "Chayanne",
+        "clues": [
+            "Latino",
+            "Bailarín",
+            "Voz"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Chayanne_-_Chicago_2010-11-24_-_5218332868_%28cropped%29.jpg/250px-Chayanne_-_Chicago_2010-11-24_-_5218332868_%28cropped%29.jpg"
+    },
+    {
+        "word": "Ricky Martin",
+        "clues": [
+            "Livin' la vida loca"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/df/Ricky_Martin_Golden_Globe_Awards_2018.jpg"
+    },
+    {
+        "word": "Daddy Yankee",
+        "clues": [
+            "Gasolina",
+            "Reggaetón"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Daddy_Yankee_-_The_Kingdom_%28Official_Q_%26_A%29.png"
+    },
+    {
+        "word": "Juanes",
+        "clues": [
+            "Colombia",
+            "Paz",
+            "Guitarra"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5d/2023-11-16_Gala_de_los_Latin_Grammy%2C_14_%28cropped%29.jpg"
+    },
+    {
+        "word": "Marc Anthony",
+        "clues": [
+            "Salsa",
+            "Timbal"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/66/Interview_with_Marc_Anthony_%28cropped%29.png"
+    },
+    {
+        "word": "Gloria Estefan",
+        "clues": [
+            "Cuba",
+            "Conga"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Gloria_Estefan_2022_%28cropped%29.png/250px-Gloria_Estefan_2022_%28cropped%29.png"
+    },
+    {
+        "word": "Maná",
+        "clues": [
+            "Banda mexicana",
+            "Éxitos"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/Visions_of_Mana.png/250px-Visions_of_Mana.png"
+    },
+    {
+        "word": "Los Fabulosos Cadillacs",
+        "clues": [
+            "Ska",
+            "Argentina",
+            "Matador"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/6/6f/20_Grandes_Exitos.jpg"
+    },
+    {
+        "word": "Sandro de América",
+        "clues": [
+            "Balada",
+            "Romántico",
+            "Argentina"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sandro_-_Antena_1970.png"
+    },
+    {
+        "word": "Fito Páez",
+        "clues": [
+            "Argentina",
+            "Canciones de amor",
+            "Rosario"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Homenaje_Gustavo_Cerati_%2815528982867%29_%28cropped%29.jpg/250px-Homenaje_Gustavo_Cerati_%2815528982867%29_%28cropped%29.jpg"
+    },
+    {
+        "word": "Joan Manuel Serrat",
+        "clues": [
+            "España",
+            "Mediterráneo"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/44/Joan_Manuel_Serrat_-_Gira_100x100_Serrat.jpg"
+    },
+    {
+        "word": "Carlos Vives",
+        "clues": [
+            "Vallenato",
+            "Colombia",
+            "Música folclórica"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Carlos_Vives_-_World_Economic_Forum_on_Latin_America_2010.jpg/1200px-Carlos_Vives_-_World_Economic_Forum_on_Latin_America_2010.jpg"
+    },
+    {
+        "word": "Rubén Rada",
+        "clues": [
+            "Jazz",
+            "Candombe",
+            "Percusionista"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/68/Rada-_milonga_y_candombe_en_La_Ballena_Azul_%2820228209453%29.jpg"
+    },
+    {
+        "word": "Jorge Drexler",
+        "clues": [
+            "rio",
+            "Oscar",
+            "Milongas"
+        ],
+        "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Goyas_2025_-_Jorge_Drexler_%28cropped%29.jpg/250px-Goyas_2025_-_Jorge_Drexler_%28cropped%29.jpg"
+    },
+    {
+        "word": "Cámara fotográfica",
+        "clues": [
+            "Momento"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Espejo",
+        "clues": [
+            "Imagen",
+            "Distorsión"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Bicicleta",
+        "clues": [
+            "Libertad"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Piano",
+        "clues": [
+            "Armonía"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Reloj de arena",
+        "clues": [
+            "Tiempo",
+            "Granos",
+            "Eternidad"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Globos",
+        "clues": [
+            "Fiesta",
+            "Ligereza",
+            "Vuelo"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Taza",
+        "clues": [
+            "Bebida",
+            "Calor",
+            "Refugio"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Aire acondicionado",
+        "clues": [
+            "Frío",
+            "Confort",
+            "Viento"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Llave",
+        "clues": [
+            "Acceso"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Escoba",
+        "clues": [
+            "Mantenimiento"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Freddie Mercury",
+        "clues": [
+            "Teatro",
+            "Ópera",
+            "Revolución"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "David Bowie",
+        "clues": [
+            "Camaleón",
+            "Espacio"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Billie Eilish",
+        "clues": [
+            "voz"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Diego Maradona",
+        "clues": [
+            "Genio",
+            "Campeón"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Michelle Obama",
+        "clues": [
+            "escritora"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Luis Miguel",
+        "clues": [
+            "Ícono",
+            "Romántico"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Tupac Shakur",
+        "clues": [
+            "Rebelde",
+            "Poeta",
+            "Revolución"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Frida Kahlo",
+        "clues": [
+            "Arte"
+        ],
+        "imagen": ""
+    },
+    {
+        "word": "Stephen Hawking",
+        "clues": [
+            "Física",
+            "Espacio",
+            "Teoría"
+        ],
+        "imagen": ""
+    },
+    
+  {
+    "word": "Bruno Mars",
+    "clues": ["Ritmo", "Estilo", "Funk"],
+    "imagen": ""
+  },
+  {
+    "word": "Ed Sheeran",
+    "clues": ["Melodías", "Guitarra", "Poeta"],
+    "imagen": ""
+  },
+  {
+    "word": "Ariana Grande",
+    "clues": ["Voz", "Pop", "Versatilidad"],
+    "imagen": ""
+  },
+  {
+    "word": "Kendrick Lamar",
+    "clues": ["Rap", "Poesía", "Revolución"],
+    "imagen": ""
+  },
+  {
+    "word": "Shakira",
+    "clues": ["Colombia", "Movimiento", "Bailarina"],
+    "imagen": ""
+  },
+  {
+    "word": "President Obama",
+    "clues": ["Cambio", "Liderazgo", "Esperanza"],
+    "imagen": ""
+  },
+  {
+    "word": "Nelson Mandela",
+    "clues": ["Libertad", "Lucha", "Justicia"],
+    "imagen": ""
+  },
+  {
+    "word": "Winston Churchill",
+    "clues": ["Resistencia", "Oratoria", "Segunda guerra"],
+    "imagen": ""
+  },
+  {
+    "word": "Abraham Lincoln",
+    "clues": ["Emancipación", "Unión", "Lucha"],
+    "imagen": ""
+  },
+  {
+    "word": "John F. Kennedy",
+    "clues": ["Cambio", "Juventud", "Carisma"],
+    "imagen": ""
+  },
+  {
+    "word": "Micrófono",
+    "clues": ["Voz", "Escenario", "Música"],
+    "imagen": ""
+  },
+  {
+    "word": "Guitarra",
+    "clues": ["Cuerdas", "Melodía", "Riff"],
+    "imagen": ""
+  },
+  {
+    "word": "Piano",
+    "clues": ["Teclas", "Sonido", "Composición"],
+    "imagen": ""
+  },
+  {
+    "word": "Disco",
+    "clues": ["Vinilo", "Música", "Ritmo"],
+    "imagen": ""
+  },
+  {
+    "word": "Bandera",
+    "clues": ["Símbolo", "Nación", "Patriotismo"],
+    "imagen": ""
+  },
+  {
+    "word": "Silla presidencial",
+    "clues": ["Poder", "Gobierno", "Autoridad"],
+    "imagen": ""
+  },
+  {
+    "word": "Micrófono inalámbrico",
+    "clues": ["Libertad", "Conexión", "Voz"],
+    "imagen": ""
+  },
+  {
+    "word": "Pluma",
+    "clues": ["Escribir", "Firma", "Decisiones"],
+    "imagen": ""
+  },
+  {
+    "word": "Estatua de la libertad",
+    "clues": ["Libertad", "Estados Unidos", "Símbolo"],
+    "imagen": ""
+  },
+  {
+    "word": "Arpa",
+    "clues": ["Cuerdas", "Melodía", "Antigua"],
+    "imagen": ""
+  }
+]
