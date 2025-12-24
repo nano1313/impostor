@@ -392,256 +392,335 @@
         ],
         "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Goyas_2025_-_Jorge_Drexler_%28cropped%29.jpg/250px-Goyas_2025_-_Jorge_Drexler_%28cropped%29.jpg"
     },
-    {
-        "word": "Cámara fotográfica",
-        "clues": [
-            "Momento"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Espejo",
-        "clues": [
-            "Imagen",
-            "Distorsión"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Bicicleta",
-        "clues": [
-            "Libertad"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Piano",
-        "clues": [
-            "Armonía"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Reloj de arena",
-        "clues": [
-            "Tiempo",
-            "Granos",
-            "Eternidad"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Globos",
-        "clues": [
-            "Fiesta",
-            "Ligereza",
-            "Vuelo"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Taza",
-        "clues": [
-            "Bebida",
-            "Calor",
-            "Refugio"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Aire acondicionado",
-        "clues": [
-            "Frío",
-            "Confort",
-            "Viento"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Llave",
-        "clues": [
-            "Acceso"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Escoba",
-        "clues": [
-            "Mantenimiento"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Freddie Mercury",
-        "clues": [
-            "Teatro",
-            "Ópera",
-            "Revolución"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "David Bowie",
-        "clues": [
-            "Camaleón",
-            "Espacio"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Billie Eilish",
-        "clues": [
-            "voz"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Diego Maradona",
-        "clues": [
-            "Genio",
-            "Campeón"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Michelle Obama",
-        "clues": [
-            "escritora"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Luis Miguel",
-        "clues": [
-            "Ícono",
-            "Romántico"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Tupac Shakur",
-        "clues": [
-            "Rebelde",
-            "Poeta",
-            "Revolución"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Frida Kahlo",
-        "clues": [
-            "Arte"
-        ],
-        "imagen": ""
-    },
-    {
-        "word": "Stephen Hawking",
-        "clues": [
-            "Física",
-            "Espacio",
-            "Teoría"
-        ],
-        "imagen": ""
-    },
-    
-  {
-    "word": "Bruno Mars",
-    "clues": ["Ritmo", "Estilo", "Funk"],
-    "imagen": ""
+      {
+    "word": "Cámara fotográfica",
+    "clues": [
+      "Momento"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/9/99/LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg"
   },
   {
-    "word": "Ed Sheeran",
-    "clues": ["Melodías", "Guitarra", "Poeta"],
-    "imagen": ""
+    "word": "Espejo",
+    "clues": [
+      "Imagen",
+      "Distorsión"
+    ],
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-a3KnrlYkF9AltwrJxL6yCG3OAfOLoABpw&s"
   },
   {
-    "word": "Ariana Grande",
-    "clues": ["Voz", "Pop", "Versatilidad"],
-    "imagen": ""
-  },
-  {
-    "word": "Kendrick Lamar",
-    "clues": ["Rap", "Poesía", "Revolución"],
-    "imagen": ""
-  },
-  {
-    "word": "Shakira",
-    "clues": ["Colombia", "Movimiento", "Bailarina"],
-    "imagen": ""
-  },
-  {
-    "word": "President Obama",
-    "clues": ["Cambio", "Liderazgo", "Esperanza"],
-    "imagen": ""
-  },
-  {
-    "word": "Nelson Mandela",
-    "clues": ["Libertad", "Lucha", "Justicia"],
-    "imagen": ""
-  },
-  {
-    "word": "Winston Churchill",
-    "clues": ["Resistencia", "Oratoria", "Segunda guerra"],
-    "imagen": ""
-  },
-  {
-    "word": "Abraham Lincoln",
-    "clues": ["Emancipación", "Unión", "Lucha"],
-    "imagen": ""
-  },
-  {
-    "word": "John F. Kennedy",
-    "clues": ["Cambio", "Juventud", "Carisma"],
-    "imagen": ""
-  },
-  {
-    "word": "Micrófono",
-    "clues": ["Voz", "Escenario", "Música"],
-    "imagen": ""
-  },
-  {
-    "word": "Guitarra",
-    "clues": ["Cuerdas", "Melodía", "Riff"],
-    "imagen": ""
+    "word": "Bicicleta",
+    "clues": [
+      "Libertad"
+    ],
+    "imagen": "https://cdn1.coppel.com/images/catalog/mkp/2502/3000/25021286-2.jpg?iresize=width:400,height:320"     
   },
   {
     "word": "Piano",
-    "clues": ["Teclas", "Sonido", "Composición"],
-    "imagen": ""
+    "clues": [
+      "Armonía"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/01/Steinway_Vienna_002.JPG"
+  },
+  {
+    "word": "Reloj de arena",
+    "clues": [
+      "Tiempo",
+      "Granos",
+      "Eternidad"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Wooden_hourglass_3.jpg/250px-Wooden_hourglass_3.jpg"
+  },
+  {
+    "word": "Globos",
+    "clues": [
+      "Fiesta",
+      "Ligereza",
+      "Vuelo"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/59/JG2021.png"
+  },
+  {
+    "word": "Taza",
+    "clues": [
+      "Bebida",
+      "Calor",
+      "Refugio"
+    ],
+    "imagen": "https://media.istockphoto.com/id/821282266/es/foto/blanco-taza-aislada.jpg?s=612x612&w=0&k=20&c=5AXTocHRgcXlxKaHEHdUFRgj4QQ1m6FTiyltedW1Oog="
+  },
+  {
+    "word": "Aire acondicionado",
+    "clues": [
+      "Frío",
+      "Confort",
+      "Viento"
+    ],
+    "imagen": "https://www.gollo.com/media/wysiwyg/Blog/CuerpoArticulo/shutterstock_2120547839.jpg"
+  },
+  {
+    "word": "Llave",
+    "clues": [
+      "Acceso"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Veracruz_in_Mexico_%28location_map_scheme%29.svg/1200px-Veracruz_in_Mexico_%28location_map_scheme%29.svg.png"
+  },
+  {
+    "word": "Escoba",
+    "clues": [
+      "Mantenimiento"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Escoba.png/120px-Escoba.png"
+  },
+  {
+    "word": "Freddie Mercury",
+    "clues": [
+      "Teatro",
+      "Ópera",
+      "Revolución"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg"
+  },
+  {
+    "word": "David Bowie",
+    "clues": [
+      "Camaleón",
+      "Espacio"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/e8/David-Bowie_Chicago_2002-08-08_photoby_Adam-Bielawski-cropped.jpg"
+  },
+  {
+    "word": "Billie Eilish",
+    "clues": [
+      "voz"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Billie_Eilish_at_Pukkelpop_Festival_-_18_AUGUST_2019_%2801%29_%28cropped%29.jpg"
+  },
+  {
+    "word": "Diego Maradona",
+    "clues": [
+      "Genio",
+      "Campeón"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg"      
+  },
+  {
+    "word": "Michelle Obama",
+    "clues": [
+      "escritora"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Michelle_Obama_2013_official_portrait.jpg"        
+  },
+  {
+    "word": "Luis Miguel",
+    "clues": [
+      "Ícono",
+      "Romántico"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/57/Luis_Miguel.jpg"
+  },
+  {
+    "word": "Tupac Shakur",
+    "clues": [
+      "Rebelde",
+      "Poeta",
+      "Revolución"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Tupac_Shakur_driver%27s_license_photo_%281996%29.png"
+  },
+  {
+    "word": "Frida Kahlo",
+    "clues": [
+      "Arte"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/06/Frida_Kahlo%2C_by_Guillermo_Kahlo.jpg"
+  },
+  {
+    "word": "Stephen Hawking",
+    "clues": [
+      "Física",
+      "Espacio",
+      "Teoría"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Stephen_Hawking.StarChild.jpg"
+  },
+  {
+    "word": "Bruno Mars",
+    "clues": [
+      "Ritmo",
+      "Estilo",
+      "Funk"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b0/BrunoMars24KMagicWorldTourLive_%28cropped%29.jpg" 
+  },
+  {
+    "word": "Ed Sheeran",
+    "clues": [
+      "Melodías",
+      "Guitarra",
+      "Poeta"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Ed_Sheeran-6886_%28cropped%29.jpg"
+  },
+  {
+    "word": "Ariana Grande",
+    "clues": [
+      "Voz",
+      "Pop",
+      "Versatilidad"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ariana_Grande_by_David_Shankbone_%28cropped%29.jpg/250px-Ariana_Grande_by_David_Shankbone_%28cropped%29.jpg"
+  },
+  {
+    "word": "Kendrick Lamar",
+    "clues": [
+      "Rap",
+      "Poesía",
+      "Revolución"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/cc/KendrickSZASPurs230725-144_%28cropped%29.jpg"     
+  },
+  {
+    "word": "Shakira",
+    "clues": [
+      "Colombia",
+      "Movimiento",
+      "Bailarina"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/b8/2023-11-16_Gala_de_los_Latin_Grammy%2C_03_%28cropped%2902.jpg"
+  },
+  {
+    "word": "President Obama",
+    "clues": [
+      "Cambio",
+      "Liderazgo",
+      "Esperanza"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg"
+  },
+  {
+    "word": "Nelson Mandela",
+    "clues": [
+      "Libertad",
+      "Lucha",
+      "Justicia"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/02/Nelson_Mandela_1994.jpg"
+  },
+  {
+    "word": "Winston Churchill",
+    "clues": [
+      "Resistencia",
+      "Oratoria",
+      "Segunda guerra"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Sir_Winston_Churchill_-_19086236948.jpg"
+  },
+  {
+    "word": "Abraham Lincoln",
+    "clues": [
+      "Emancipación",
+      "Unión",
+      "Lucha"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/57/Abraham_Lincoln_1863_Portrait_%283x4_cropped%29.jpg"
+  },
+  {
+    "word": "John F. Kennedy",
+    "clues": [
+      "Cambio",
+      "Juventud",
+      "Carisma"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
+  },
+  {
+    "word": "Micrófono",
+    "clues": [
+      "Voz",
+      "Escenario",
+      "Música"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Shure_mikrofon_55S.jpg/250px-Shure_mikrofon_55S.jpg"
+  },
+  {
+    "word": "Guitarra",
+    "clues": [
+      "Cuerdas",
+      "Melodía",
+      "Riff"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Classical_Guitar_two_views.jpg/250px-Classical_Guitar_two_views.jpg"
+  },
+  {
+    "word": "Piano",
+    "clues": [
+      "Teclas",
+      "Sonido",
+      "Composición"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/01/Steinway_Vienna_002.JPG"
   },
   {
     "word": "Disco",
-    "clues": ["Vinilo", "Música", "Ritmo"],
-    "imagen": ""
+    "clues": [
+      "Vinilo",
+      "Música",
+      "Ritmo"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/28/Disco_TGI_Bar_by_John_Vance.jpg"
   },
   {
     "word": "Bandera",
-    "clues": ["Símbolo", "Nación", "Patriotismo"],
-    "imagen": ""
+    "clues": [
+      "Símbolo",
+      "Nación",
+      "Patriotismo"
+    ],
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpa2WUFbcL5iwqA3sAHqkNKTlNuWs2bAuKPg&s"
   },
   {
     "word": "Silla presidencial",
-    "clues": ["Poder", "Gobierno", "Autoridad"],
-    "imagen": ""
+    "clues": [
+      "Poder",
+      "Gobierno",
+      "Autoridad"
+    ],
+    "imagen": "https://www.nodal.am/wp-content/uploads/2023/10/Silla-presidencial-ecuador.jpg"
   },
   {
     "word": "Micrófono inalámbrico",
-    "clues": ["Libertad", "Conexión", "Voz"],
-    "imagen": ""
+    "clues": [
+      "Libertad",
+      "Conexión",
+      "Voz"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/07/Sophia_Abrah%C3%A3o_in_tour_nel_2016.png"
   },
   {
     "word": "Pluma",
-    "clues": ["Escribir", "Firma", "Decisiones"],
-    "imagen": ""
+    "clues": [
+      "Escribir",
+      "Firma",
+      "Decisiones"
+    ],
+    "imagen": "https://img.freepik.com/vector-premium/ilustracion-vector-pluma-pluma-dibujos-animados-dibujo-manual-plumas-aislado_648083-321.jpg"
   },
   {
     "word": "Estatua de la libertad",
-    "clues": ["Libertad", "Estados Unidos", "Símbolo"],
-    "imagen": ""
+    "clues": [
+      "Libertad",
+      "Estados Unidos",
+      "Símbolo"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Statue_of_Liberty_7.jpg"
   },
   {
     "word": "Arpa",
-    "clues": ["Cuerdas", "Melodía", "Antigua"],
-    "imagen": ""
+    "clues": [
+      "Cuerdas",
+      "Melodía",
+      "Antigua"
+    ],
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Harp.png"
   }
 ]
