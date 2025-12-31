@@ -57,7 +57,7 @@ const JuegoDelImpostor = () => {
       (_, i) => ({ id: i, role: 'normal' })
     );
 
-    const impostorIndex = Math.floor(Math.random() * numPlayers);
+    const impostorIndex = crypto.getRandomValues(new Uint32Array(1))[0] % numPlayers;
     initialPlayers[impostorIndex].role = 'impostor';
 
     setPlayers(initialPlayers);
